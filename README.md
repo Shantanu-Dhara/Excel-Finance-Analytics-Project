@@ -100,7 +100,6 @@ atliq-finance-analytics/
 │   ├── raw/               # dim_customer, dim_market, dim_product, ns_targets_2021 (CSV)
 │   └── sample/            # 30-row samples of the two fact tables (full files are too large)
 ├── reports/               # report1_pnl_by_market_fy2021.pdf, report2_gm_pct_by_subzone_quarter.pdf
-├── solution/              # assignment_solution.xlsx
 └── business_problem/      # problem_statement.pdf
 ```
 
